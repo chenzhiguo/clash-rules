@@ -1,17 +1,22 @@
 payload:
-  - DOMAIN-SUFFIX,dingtalk.com,🚀 公司助手
-  - DOMAIN-SUFFIX,dingtalkapps.com,🚀 公司助手
-  - DOMAIN-SUFFIX,bing.com,🚀 公司助手
-  - DOMAIN-SUFFIX,mxhichina.com,🚀 公司助手
-  - DOMAIN-SUFFIX,aliapp.org,🚀 公司助手
-  - DOMAIN-SUFFIX,aliwork.com,🚀 公司助手
-  - DOMAIN-SUFFIX,aliyun.com,🚀 公司助手
-  - DOMAIN-SUFFIX,yuque.com,🚀 公司助手
-  - DOMAIN-SUFFIX,pan.baidu.com,🚀 公司助手
-  - DOMAIN-SUFFIX,youdao.com,🚀 公司助手
-  - DOMAIN-SUFFIX,icloud.com,🚀 公司助手
-  - DOMAIN-SUFFIX,icloud.com.cn,🚀 公司助手
-  - DOMAIN-SUFFIX,jianguoyun.com,🚀 公司助手
-  - DOMAIN-SUFFIX,163.com,🚀 公司助手
-  - DOMAIN-SUFFIX,netease.com,🚀 公司助手
-  - DOMAIN-SUFFIX,aliyundrive.com,🚀 公司助手
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,dingtalkapps.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,mxhichina.com
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-SUFFIX,aliwork.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,imap.aliyun.com
+  - DOMAIN-SUFFIX,yuque.com
+  - DOMAIN-SUFFIX,pan.baidu.com
+  - DOMAIN-SUFFIX,pcs.baidu.com
+  - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,jianguoyun.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,netease.com
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,cdn.nlark.com

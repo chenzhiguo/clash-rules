@@ -1,8 +1,16 @@
 payload:
-  - IP-CIDR,11.50.0.0/16,DIRECT
-  - IP-CIDR,11.51.0.0/16,DIRECT
-  - IP-CIDR,11.158.0.0/16,DIRECT
-  - IP-CIDR,11.159.0.0/16,DIRECT
-  - DOMAIN-SUFFIX,jdcloud.com,DIRECT
-  - DOMAIN-SUFFIX,cbpmgt.com,DIRECT
-  - DOMAIN-SUFFIX,meshware.io,DIRECT
+  - IP-CIDR,11.50.0.0/16
+  - IP-CIDR,11.51.0.0/16
+  - IP-CIDR,11.158.0.0/16
+  - IP-CIDR,11.159.0.0/16
+  - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,cbpmgt.com
+  - DOMAIN-SUFFIX,meshware.io
+  - DOMAIN-SUFFIX,uugu.org
+  - DOMAIN-SUFFIX,20200325.xyz
+  - DOMAIN-SUFFIX,chats.li
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,jcloud.com
+  - DOMAIN-SUFFIX,jdcloud.com
+  - DOMAIN-SUFFIX,jinghai.cloudns.org

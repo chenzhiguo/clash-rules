@@ -95,3 +95,6 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
+
+  # > Coze
+  - DOMAIN-SUFFIX,coze.com
