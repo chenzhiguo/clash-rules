@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,dingtalkapps.com
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,aliwork.com
