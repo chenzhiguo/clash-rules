@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openaicom-api
+  - DOMAIN-KEYWORD,openai.com
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,45.32.12.145/32,no-resolve
   - IP-CIDR,45.55.196.68/32,no-resolve
