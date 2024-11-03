@@ -99,3 +99,6 @@ payload:
 
   # > Coze
   - DOMAIN-SUFFIX,coze.com
+
+  # > perplexity.ai
+  - DOMAIN-SUFFIX,perplexity.ai
