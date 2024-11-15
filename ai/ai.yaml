@@ -102,3 +102,6 @@ payload:
 
   # > perplexity.ai
   - DOMAIN-SUFFIX,perplexity.ai
+
+  # > x.ai
+  - DOMAIN-SUFFIX,x.ai
