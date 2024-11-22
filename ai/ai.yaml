@@ -96,6 +96,8 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,aistudio.google.com
 
   # > Coze
   - DOMAIN-SUFFIX,coze.com
