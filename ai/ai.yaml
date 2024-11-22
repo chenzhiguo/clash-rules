@@ -98,7 +98,7 @@ payload:
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
-  - DOMAIN,clients6.google.com
+  - DOMAIN-SUFFIX,clients6.google.com
 
   # > Coze
   - DOMAIN-SUFFIX,coze.com
