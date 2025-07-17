@@ -1,9 +1,10 @@
 payload:
   - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,cbpmgt.com
-  - DOMAIN-SUFFIX,meshware.io
+  - DOMAIN-SUFFIX,meshware.org
   - DOMAIN-SUFFIX,uugu.org
   - DOMAIN-SUFFIX,20200325.xyz
+  - DOMAIN-SUFFIX,20241015.xyz
   - DOMAIN-SUFFIX,900406.xyz
   - DOMAIN-SUFFIX,chats.li
   - DOMAIN-SUFFIX,jd.com
