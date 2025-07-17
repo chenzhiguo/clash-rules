@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,jcloud.com
   - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jinghai.cloudns.org
-  - DOMAIN-SUFFIX,jinghai.link
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,alikunlun.com
   - DOMAIN-SUFFIX,docker.1panel.live
