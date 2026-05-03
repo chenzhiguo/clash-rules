@@ -98,6 +98,7 @@ payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aistudio.google.com
   - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-SUFFIX,antigravity.google
 
 
   # > perplexity.ai
